@@ -1,0 +1,23 @@
+{
+  "name": "mysql",
+  "version": "1.0.0",
+  "description": "## In Stock User Case 1. Run `node bamazonCustomer.js` 2. Enter the ID of the item you would like to purchase: ![enter-id](/screenshots/enter-id.png?raw=true \"User Input of Item ID\") 3. Enter the amount you would like to purchase and receive a total price: ![in-stock-results](/screenshots/in-stock-results.png?raw=true \"Successful Purchase\")",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ExactlyMay/mysql-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ExactlyMay/mysql-cli/issues"
+  },
+  "homepage": "https://github.com/ExactlyMay/mysql-cli#readme",
+  "dependencies": {
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {}
+}
